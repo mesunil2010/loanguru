@@ -74,13 +74,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        Get loan with confidence{" "}
+                        <span>Best rate gauranteed</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      We offer a great low fixed rate car loan with no ongoing fees, so you know exactly how much your repayments are. Our easy online application takes only minutes and we've removed all the speed bumps along the way..
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -88,21 +86,15 @@ class Landing extends React.Component {
                           color="info"
                           href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
                         >
-                          <span className="btn-inner--icon mr-1">
-                            <i className="fa fa-code" />
-                          </span>
-                          <span className="btn-inner--text">Components</span>
+                          <span className="btn-inner--text">Apply now</span>
                         </Button>
                         <Button
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
                           href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-landing-page"
                         >
-                          <span className="btn-inner--icon mr-1">
-                            <i className="ni ni-cloud-download-95" />
-                          </span>
                           <span className="btn-inner--text">
-                            Download React
+                            Get Quote
                           </span>
                         </Button>
                       </div>
@@ -141,22 +133,20 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            Auto Loan
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          our mission is to do everything possible to make it easier to drive away from the car dealership in your new car sooner. Our online application makes it easy to get a car loan approved within 24 hours.
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
-                              design
+                              easy
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              system
+                              quick
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              creative
+                              comparative
                             </Badge>
                           </div>
                           <Button
@@ -165,7 +155,7 @@ class Landing extends React.Component {
                             href="#pablo"
                             onClick={e => e.preventDefault()}
                           >
-                            Learn more
+                            Compare
                           </Button>
                         </CardBody>
                       </Card>
