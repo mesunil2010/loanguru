@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7293a44f7a2ffd535291a6868a6a472e",
+    "revision": "4ca6c8fb63b31d88b17608c099e1d3f2",
     "url": "/loanguru/index.html"
   },
   {
-    "revision": "8f9fa03631db482d45b1",
+    "revision": "2a7e55d516d6241d38ea",
     "url": "/loanguru/static/css/main.6cbe20dd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loanguru/static/js/2.3b927b21.chunk.js"
   },
   {
-    "revision": "8f9fa03631db482d45b1",
-    "url": "/loanguru/static/js/main.d87a27d9.chunk.js"
+    "revision": "2a7e55d516d6241d38ea",
+    "url": "/loanguru/static/js/main.5f7b45b8.chunk.js"
   },
   {
     "revision": "7c66b8b6983e41f91f20",
