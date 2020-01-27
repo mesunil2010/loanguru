@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64a104e71d9644a117d9e1caac0c4680",
+    "revision": "4313dcb931f854d88fd7d2d7b2a6bb37",
     "url": "/loanguru/index.html"
   },
   {
-    "revision": "768da38964cba11364c1",
+    "revision": "8f9fa03631db482d45b1",
     "url": "/loanguru/static/css/main.6cbe20dd.chunk.css"
   },
   {
-    "revision": "e709e57b48de8f13b145",
-    "url": "/loanguru/static/js/2.08c33c11.chunk.js"
+    "revision": "32ed650130c771117b98",
+    "url": "/loanguru/static/js/2.3b927b21.chunk.js"
   },
   {
-    "revision": "768da38964cba11364c1",
-    "url": "/loanguru/static/js/main.66575a6c.chunk.js"
+    "revision": "8f9fa03631db482d45b1",
+    "url": "/loanguru/static/js/main.d87a27d9.chunk.js"
   },
   {
     "revision": "7c66b8b6983e41f91f20",
@@ -72,10 +72,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/loanguru/static/media/img-2-1200x1000.ba449a06.jpg"
   },
   {
-    "revision": "0ec264785c9b6efbed2651d84105f436",
-    "url": "/loanguru/static/media/landing.0ec26478.jpg"
-  },
-  {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "/loanguru/static/media/nucleo-icons.0b8a30b1.svg"
   },
@@ -94,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/loanguru/static/media/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
-    "revision": "278a0d250cc46de3a4f65a0791479e71",
-    "url": "/loanguru/static/media/profile.278a0d25.jpg"
   },
   {
     "revision": "75f7ab18f707114d817522df8dea0a3b",
