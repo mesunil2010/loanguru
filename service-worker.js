@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loanguru/precache-manifest.efb285cb4a3f7053684a5caeba675919.js"
+  "/loanguru/precache-manifest.dde1a1d06c83580276d6e69bbf031e90.js"
 );
 
 self.addEventListener('message', (event) => {
